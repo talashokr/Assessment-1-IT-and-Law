@@ -7,6 +7,7 @@ PRACTICAL TASK 1: IT AND LAW
 
 
 Privacy Principles:
+
 •         Principle 1 - Purpose of collection of personal information
 Principle 1 of Privacy Act 2020 allows organisations to collect personal information from the individuals under two conditions; Frist the purpose of collecting information must be lawful. Secondly collecting the information must be necessary in relation to the lawful purpose.
 1.	How to ensure if the collection of the information is necessary?

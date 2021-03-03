@@ -3,10 +3,11 @@ PRACTICAL TASK 1: IT AND LAW
 1-	Privacy Checklist
 1.	Select five of the 12 privacy principles set out in Section 6 of the Privacy Act.
 2. Consider what you would have to do to comply with each of these principles if you were developing an IT system, e.g. a Web application.
-
 3. Provide at least two actionable items for each of the principles you have selected
+
+
 Privacy Principles:
-• Principle 1 - Purpose of collection of personal information
+•         Principle 1 - Purpose of collection of personal information
 Principle 1 of Privacy Act 2020 allows organisations to collect personal information from the individuals under two conditions; Frist the purpose of collecting information must be lawful. Secondly collecting the information must be necessary in relation to the lawful purpose.
 1.	How to ensure if the collection of the information is necessary?
 To fulfil the criteria, the organization or IT developer behalf of the organization should only collect the relevant and necessary information for the lawful purpose of the activities. According to Privacy Act 2020, collecting the unnecessary information from the people is a breach of law and it must be avoided. If the lawful activities can be carried out without the collecting information, so the collection is not necessary.

@@ -16,6 +16,12 @@ To fulfil the criteria, the organization or IT developer behalf of the organizat
 2.	How specific should be the purpose of collection?
 To ensure organisations only collect the necessary information from the people, they should clearly declare the purpose of collecting personal information. Having a clear understanding of what the organization is intended to do with the information is essential. The collected information must exclusively be used for the mentioned purposes.
 
+<!-- this is so interesting, don't you think? The new law is aimed directly at the Facebooks of the world. Excellent work Fatemeh -->
+
+<!-- we can extract from your above work an action e.g -->
+- [ ] the purpose of collecting personal information is clear
+- [ ] <!-- keep going if you like -->
+
 •	Principle 2 - Source of personal information 
 Information privacy Principle 2(1) mentions that collecting the personal information should carry out directly from the individuals; this is to ensure individuals have control on their personal information.
 However, the organisations might collect the information not only by asking directly from the individuals, they also can collect the information using public resources or asking from third parties.

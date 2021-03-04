@@ -54,3 +54,52 @@ The website is New Zealand’s Privacy Commissioner website. In the e-learning p
 4. “Publish” your privacy policy: 
 
 
+MARKING FORM – PRACTICAL TASKS
+Student (Ākonga) Name: Fatemeh Shokrpour
+Student ID: 20210641
+Date submitted:
+Assessor Use Only
+Practical Task 1
+Marks awarded:
+Total Marks available:
+35
+Percentage:
+Weighting towards the course grade:
+10%
+Assessor’s Name:
+Assessor’s signature:
+Date marked:
+Date entered:
+This assessment component contributes 10% to your final course grade.
+Tutor Feedback
+
+Judgement Statements
+Marks Awarded 
+Marks Available 
+Privacy Principles 
+The compliance activities listed correctly for five privacy principles    9-10  
+The compliance activities listed correctly for no more than three privacy principles   5-8
+The compliance activities listed are mostly incorrect or only specified for less than three privacy principles  0-4
+Privacy Checklist:  
+Questions included in the privacy checklist are based on five selected principles; 9-10
+there are two questions per principle 
+Questions to include in the privacy checklist validate most of the selected principles  5-8
+Questions to include in the privacy checklist specified mostly incorrectly or only validate some of the selected principles  0-4 
+Website Description: 
+Website description matches the website link provided 4
+Website description mostly matches the website link provided 2-3 
+Website description does not match or only partially matches the website link provided 0-1 
+Website Privacy Policy: 
+Website Privacy Policy is valid for the website provided 4
+Website Privacy Policy is mostly valid for the website provided 2-3
+Website Privacy Policy is not valid for the website provided  0-1 
+Publishing the Policy: 
+Privacy Policy is published correctly using one of the methods specified in the task 2
+Evidence of attempting to publish the policy using one of the methods specified in the task is provided 1
+The Privacy Policy has not been published using one of the methods specified in the task 0
+Support of Privacy Principles 
+Valid explanation of how the privacy policy is implemented for the 5 selected privacy principles. 4-5 
+Valid explanation of how the privacy policy is implemented for some of the 5 selected privacy principles. 2-3
+An explanation of privacy policy implementing the selected privacy principles is not provided, incomplete or not valid.  0-1 
+
+Total Marks 35 marks
